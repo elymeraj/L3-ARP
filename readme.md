@@ -1,3 +1,35 @@
+# Projet ARP : Accessibilité dans \( \mathbb{Z}^2 \)
+
+## Membres du Groupe
+
+- Eldis YMERAJ
+- Tolgan SUNER
+
+## Aperçu du Projet
+
+Dans le cadre de notre unité d'enseignement ARP, nous avons abordé un problème de recherche complexe : l'accessibilité dans \( \mathbb{Z}^2 \), un défi qui a pris des années à résoudre. Ce projet visait à implémenter différentes heuristiques et à tester diverses approches pour explorer des solutions potentielles, représentées ensuite sous forme de graphiques.
+
+### Développement et Méthodologie
+
+Nous avons développé notre projet en Python, en nous concentrant sur :
+
+- **Implémentation d'heuristiques** : Exploration de diverses stratégies pour naviguer dans l'espace des solutions.
+- **Analyse graphique** : Représentation des résultats de nos expérimentations sous forme de graphiques pour une meilleure compréhension des performances des heuristiques.
+
+### Objectifs et Résultats
+
+Le but était de comprendre en profondeur les défis liés au problème d'accessibilité dans \( \mathbb{Z}^2 \) et de mettre en évidence l'efficacité relative des différentes heuristiques testées. Nos résultats ont permis d'illustrer comment certaines approches peuvent significativement améliorer la recherche de solutions.
+
+## Technologies Utilisées
+
+- **Python** : Pour le développement des algorithmes et la manipulation des données.
+- **Librairies Python** : Utilisées pour la création de graphiques et l'analyse des performances des heuristiques.
+
+## Conclusion
+
+Ce projet a non seulement renforcé notre compréhension des problèmes d'accessibilité dans des espaces discrets mais a également démontré la puissance des heuristiques dans la résolution de problèmes complexes. Les visualisations graphiques ont joué un rôle clé dans l'analyse de nos approches et la démonstration de leur efficacité.
+
+
 # Heuristique
 
 En haut du programme, nous trouvons un dictionnaire permettant de choisir les heuristiques que l'on veut utiliser pour guider la recherche.
