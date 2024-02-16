@@ -1,5 +1,4 @@
-# Projet ARP : Accessibilité dans \( \mathbb{Z}^2 \)
-
+# Projet ARP : Accessibilité dans Z²
 ## Membres du Groupe
 
 - Eldis YMERAJ
