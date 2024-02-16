@@ -6,7 +6,7 @@
 
 ## Aperçu du Projet
 
-Dans le cadre de notre unité d'enseignement ARP, nous avons abordé un problème de recherche complexe : l'accessibilité dans \( \mathbb{Z}^2 \), un défi qui a pris des années à résoudre. Ce projet visait à implémenter différentes heuristiques et à tester diverses approches pour explorer des solutions potentielles, représentées ensuite sous forme de graphiques.
+Dans le cadre de notre unité d'enseignement ARP, nous avons abordé un problème de recherche complexe : l'accessibilité dans Z², un défi qui a pris des années à résoudre. Ce projet visait à implémenter différentes heuristiques et à tester diverses approches pour explorer des solutions potentielles, représentées ensuite sous forme de graphiques.
 
 ### Développement et Méthodologie
 
@@ -17,7 +17,7 @@ Nous avons développé notre projet en Python, en nous concentrant sur :
 
 ### Objectifs et Résultats
 
-Le but était de comprendre en profondeur les défis liés au problème d'accessibilité dans \( \mathbb{Z}^2 \) et de mettre en évidence l'efficacité relative des différentes heuristiques testées. Nos résultats ont permis d'illustrer comment certaines approches peuvent significativement améliorer la recherche de solutions.
+Le but était de comprendre en profondeur les défis liés au problème d'accessibilité dans Z² et de mettre en évidence l'efficacité relative des différentes heuristiques testées. Nos résultats ont permis d'illustrer comment certaines approches peuvent significativement améliorer la recherche de solutions.
 
 ## Technologies Utilisées
 
